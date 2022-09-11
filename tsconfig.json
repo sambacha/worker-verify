@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "lib": ["ES2020"],
+    "moduleResolution": "nodenext",
+    "moduleDetection": "auto",
+    "module": "NodeNext",
+    "target": "ESNext",
+    "rootDir": "./src",
+    "outDir": "./dist"
+  },
+  "ts-node": {
+    "swc": true
+  }
+}
